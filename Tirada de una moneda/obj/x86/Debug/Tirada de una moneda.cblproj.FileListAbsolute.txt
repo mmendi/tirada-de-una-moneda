@@ -1,0 +1,2 @@
+c:\users\matiymanu\documents\visual studio 2015\Projects\Tirada de una moneda\Tirada de una moneda\bin\x86\Debug\Tirada_de_una_moneda.exe
+c:\users\matiymanu\documents\visual studio 2015\Projects\Tirada de una moneda\Tirada de una moneda\obj\x86\Debug\Tirada_de_una_moneda.exe
